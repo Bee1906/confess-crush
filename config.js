@@ -20,5 +20,4 @@ const CONFIG = {
     messDesc: 'Cơ mà em giận anh cmnr , Sao anh mê ngủ bỏ rơi em hoài dãyyyy 
             Ngủ nó ngon hơn em hả ????? .',
     btnAccept: 'Anh xin lỗi , anh là con heoo , anh mê ăn mê ngủ , anhh xin lỗiiiii , anhh đền pù cho em nhé <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    messLink: 'https://www.facebook.com/messages/e2ee/t/8428021210561366'
